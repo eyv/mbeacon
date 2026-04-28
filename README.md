@@ -1,13 +1,7 @@
 # mbeacon
 Turn your mac into an iBeacon.
 
-# Installation
-
-```
-$ brew tap watr/formulae
-...
-$ brew install mbeacon
-```
+Forked from [watr/mbeacon](https://github.com/watr/mbeacon). Incorporated [ArgumentParser](https://swiftpackageindex.com/apple/swift-argument-parser/documentation/argumentparser/) for CLI handling. I used Claude Code and OpenAI Codex to help me.
 
 # How to use
 
